@@ -7,8 +7,11 @@ if speak_to_grandma == "love"
 else if 
   speak_to_grandma == "Silly"
   puts = "NO, NOT SINCE 1938!"
-else
+else if
+  speak_to_grandma == "fun"
   puts = "I LOVE YOU GRANDMA!"
+else 
+  puts "I LOVE YOU TOO PUMPKIN"
 end
 
 # Whatever you say to grandma, she should respond with
