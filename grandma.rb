@@ -4,7 +4,7 @@ speak_to_grandma = "love"
 
 if speak_to_grandma == "love"
   puts "HUH? SPEAK UP, SONNY!"
-elseif 
+else if 
   speak_to_grandma == "Silly"
   puts = "NO, NOT SINCE 1938!"
 else
